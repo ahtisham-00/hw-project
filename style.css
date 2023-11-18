@@ -1,0 +1,35 @@
+.main {
+    background-color: blue;
+
+}
+
+h1 {
+    font-weight: 900;
+    line-height: 79px !important;
+}
+
+.main-1-row {
+    padding-top: 60px;
+    padding-bottom: 203px;
+}
+
+.main-2 h1 {
+    margin: 70px 0;
+}
+
+i {
+    font-size: 60px;
+}
+.card2 {
+    width: 100%;
+}
+.main3 {
+    background-color: blue;
+    height: 20vh;
+}
+.main3 h3 {
+    color: wheat;
+}
+.main3 h4 {
+    color: yellow;
+}
